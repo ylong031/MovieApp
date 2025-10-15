@@ -3,6 +3,9 @@
 
 This application featured all the trending,uppcoming and highest rated movies from all around the world.Here you can find information about movie plot,casted actors and pictures related to the movie.It also has a search function where you can find movies based on movie name that you key in. 
 
+![image](https://github.com/ylong031/MovieApp/blob/main/Movie.png)
+
+
 <!-- dependencies: -->
 
     "@react-navigation/native": "^6.1.18",
@@ -20,4 +23,5 @@ This application featured all the trending,uppcoming and highest rated movies fr
     "react-native-safe-area-context": "4.10.5",
     "react-native-screens": "3.31.1",
     "react-native-svg": "15.2.0"
+
   
